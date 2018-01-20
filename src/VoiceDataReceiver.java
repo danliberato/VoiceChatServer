@@ -36,7 +36,7 @@ public class VoiceDataReceiver implements Runnable {
                     
                 }
 
-                System.out.println("#" + i++);
+                //System.out.println("#" + i++);
 
             }
         } catch (IOException ex) {
